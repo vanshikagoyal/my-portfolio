@@ -1,0 +1,83 @@
+html{
+    background: url(../images/blur2.png);
+    background-size: 1350px;
+}
+.prof-box {
+width: 300px;
+height: 450px;
+background-color: 064255;
+padding: 40px;
+color: white;
+margin: 0 auto;
+margin-top: 100px;
+text-align: center;
+}
+
+.prof-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 150px;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+}
+
+h1{
+    font-weight:100;
+    letter-spacing: 4;
+    font-size:30px;
+}
+
+.line-break{
+    width: 300px;
+    margin: 15 auto;
+    text-align: center;
+    border-top: 1px solid whitesmoke;
+}
+
+.python{
+    float: right;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+  }
+  .html{
+    float: left;
+    margin-right: 30px;
+    width: 200px;
+    height: 200px;
+  }
+  .css{
+    float: right;
+    margin-left: 30px;
+    height: 200px;
+    width: 200px;
+  }
+  .Clogo{
+    float: left;
+    margin-right: 30px;
+    height: 200px;
+    width: 200px;
+  }
+  .figma{
+      float: left;
+      margin-right: 30px;
+      height: 200px;
+      width: 200px;
+  }
+  .skills{
+    padding-top: 40px;
+  }
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: white;
+  }
+  .socials{
+      color: white;
+  }
+  .review{
+      color: white;
+  }
